@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Voiture/Voiture.vcxproj" Id="ab60c0a1-af19-4a88-90d3-ad296f8ca56e" />
+</Solution>
